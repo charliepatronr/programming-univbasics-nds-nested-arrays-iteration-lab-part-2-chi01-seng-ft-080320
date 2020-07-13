@@ -13,4 +13,5 @@ i = 0
    new_arr.push(min_value)
     i +=1
   end 
+  new_arr
 end
